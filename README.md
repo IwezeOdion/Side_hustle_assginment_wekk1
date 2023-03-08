@@ -1,2 +1,2 @@
-# Side_hustle_assginment_wekk1
+# Side_hustle_assginment_week1
 WEEK 1 ASSIGNMENT-FRONT END
